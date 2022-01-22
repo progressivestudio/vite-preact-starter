@@ -1,0 +1,3 @@
+{
+	"extends": ["@progressivestudio/eslint-config-react"]
+}
